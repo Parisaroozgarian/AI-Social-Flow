@@ -171,5 +171,3 @@ We welcome new contributors and suggestions. Feel free to open an [issue](https:
 
 This project is licensed under the [MIT License](./LICENSE). See the [LICENSE file](./LICENSE) for details.
 ```
-
---- 
